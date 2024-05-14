@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "127768024685",
+    "firebase_url": "https://clare-sproject-default-rtdb.firebaseio.com",
+    "project_id": "clare-sproject",
+    "storage_bucket": "clare-sproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127768024685:android:0ebc95394a885732049164",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWJ0AsiDlGo7ugAKRsYqbCvWNBdgs5oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127768024685:android:8132bcf8ff49c9f4049164",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWJ0AsiDlGo7ugAKRsYqbCvWNBdgs5oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
